@@ -1,1 +1,3 @@
-# DA5401_A3_DA25D002
+Name: Sridhar Ramachandran <br>
+Roll Number: DA25D002 <br>
+The purpose of this work is to train a classifier on the [credit card dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and compare various resampling techniques. This dataset contains 30 input features (of which 28 were obtained using PCA). The target is a binary feature which denotes fraudulent and non-fraudulent transactions. This is a highly imbalanced dataset as the vast majority of transactions are non-fraudulent. Therefore, resampling needs to be performed to balance the dataset. SMOTE, CBO and CBU are the resampling methods used in this work.
